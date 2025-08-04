@@ -1,1 +1,1 @@
-echo "# practice_space"
+# practice_space

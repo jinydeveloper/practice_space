@@ -1,5 +1,6 @@
 <?php
 
-phpinfo();
+header("Location: crawling.php");
+exit; //
 
 ?>
